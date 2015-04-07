@@ -15,3 +15,29 @@ it does not suit your learning style. That is ok! Everyone learns differently,
 and while this may be an incredible learning resource for some, it may not
 work for you.
 
+## Guides
+
+Fundamentals:
+
+ - [ ] fn main
+ - [ ] using macros (hello world)
+ - [ ] expressions
+ - [ ] statements and semicolons
+ - [ ] blocks
+ - [ ] loop and while
+ - [ ] non-generic, non-pointer fns
+ - [ ] structs
+ - [ ] enums
+ - [ ] pointers and ownership
+ - [ ] inherent impls
+ - [ ] traits and impls without generics
+ - [ ] generics
+  - [ ] where clauses
+ - [ ] associated types
+ - [ ] Sized, trait objects, and `[T]`
+
+Non-Fundamentals:
+ - [ ] closures
+ - [ ] operator overloading
+ - [ ] iterators and for
+

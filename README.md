@@ -19,10 +19,10 @@ work for you.
 
 Fundamentals:
 
- - [ ] fn main
- - [ ] using macros (hello world)
+ - [ ] running rust code
  - [ ] expressions
  - [ ] statements and semicolons
+ - [ ] use
  - [ ] blocks
  - [ ] loop and while
  - [ ] non-generic, non-pointer fns
@@ -35,9 +35,13 @@ Fundamentals:
   - [ ] where clauses
  - [ ] associated types
  - [ ] Sized, trait objects, and `[T]`
+ - [ ] Copy and Drop
+ - [ ] unsafe
+ - [ ] macros and `macro_rules`
 
-Non-Fundamentals:
+Non-Fundamentals: (explainable using fundamentals)
  - [ ] closures
  - [ ] operator overloading
  - [ ] iterators and for
+ - [ ] Send, Sync, and concurrency
 
